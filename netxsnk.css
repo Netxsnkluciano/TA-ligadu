@@ -5,7 +5,8 @@ header{
 }
 
 .caixa{
-
-
+position: relative;
+width: 940px;
+margin: 0 auto;
 
 }
